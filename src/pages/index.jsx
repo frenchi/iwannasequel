@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ensignia - Software Supply-Chain Security</title>
+        {/* <title>Ensignia - Software Supply-Chain Security</title> */}
         <meta name="description" content="" />
       </Head>
       <Header />
